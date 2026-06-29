@@ -12,10 +12,11 @@ A full-stack Java project that simulates an airport runway management system whe
 ## 🌐 Live Demo
 
 **Frontend:**
-https://6a40434e41f513dfcb7bc85c--clinquant-biscotti-602bfa.netlify.app/
+https://clinquant-biscotti-602bfa.netlify.app/
 
 **Backend API:**
-https://airport-simulator-backend-production.up.railway.app
+ https://airport-simulator-backend-2.onrender.com
+
 
 ---
 
